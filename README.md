@@ -2,7 +2,7 @@
 
 This project was performed for machine vision class at University Paris Sacaclay - M1 E3A
 
-##Introduction
+* Introduction
 
 The aim of this work is to have better understanding in Machine learning/Deep learning concepts which are frequently used in computer vision fields. The project is composed of 2 parts. Convolutional Neural Network(CNN) is a multilayered neural network with a special architecture which allows to detect features of data. It has been used in many computer vision application such as image recognition, segmentation, style transfer and classification. In this paper, we are going to build a VGG-16 based CNN for classifying images, to classify cow and horse with limited numbers of datasets. It is hard to get enough data for sufficient machine training in real life. By doing data augmentation implementing DCGANs, we show that we could improve classification accuracy. 
 
