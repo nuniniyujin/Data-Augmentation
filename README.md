@@ -14,36 +14,23 @@ In a summary, This project consist of 3 parts :
 - Styletransfer between Horse and Cow
 
 
-\begin{thebibliography}{1}
 
 
-%%%%~\cite{cnn}
-\bibitem{alexnet}
-A. Krizhevsky, I. Sutskever, and G. Hinton, “ImageNet Classification
-with Deep Convolutional Neural Networks,” Advances in neural
-information processing systems, vol. 25, no. 2, 2012.
-\bibitem{cnn}
-K. Simonyan, and A. Zisserman, “Very Deep Convolutional Networks
-for Large-Scale Image Recognition,” Computer Science, 2014.
-\bibitem{vgg}
-https://neurohive.io/en/popular-networks/vgg16/
-\bibitem{GAN} 
-I. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D.Warde-Farley, S. Ozair, A. Courville, and Y. Bengio, “Generative adversarial nets,” in Advances in Neural Information Processing Systems, 2014
-\bibitem{DCGAN}
-A. Radford, L. Metz, and S. Chintala, “Unsupervised representation learning with deep convolutional generative adversarial networks,” in ICLR, 2016
-\bibitem{pix2pix}
-P. Isola, J.-Y. Zhu, T. Zhou, and A. A. Efros. Image-toimage
+# References
+
+[1]A. Radford, L. Metz, and S. Chintala, “Unsupervised representation learning with deep convolutional generative adversarial networks,” in ICLR, 2016
+
+[2]P. Isola, J.-Y. Zhu, T. Zhou, and A. A. Efros. Image-toimage
 translation with conditional adversarial networks. In CVPR, 2017
-\bibitem{cycleGAN}
-J.-Y. Zhu, T. Park, P. Isola, and A. A. Efros, “Unpaired image-to-image translation using cycle-consistent adversarial networks,”
-in Proceedings of the IEEE Conference on Computer Vision and Pattern
-Recognition, 2017
-\bibitem{patchGAN}
-P. Isola, J.-Y. Zhu, T. Zhou, and A. A. Efros. Image-toimage
+
+[3]J.-Y. Zhu, T. Park, P. Isola, and A. A. Efros, “Unpaired image-to-image translation using cycle-consistent adversarial networks,”
+in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2017
+
+[4]P. Isola, J.-Y. Zhu, T. Zhou, and A. A. Efros. Image-toimage
 translation with conditional adversarial networks. In CVPR, 2017
-\bibitem{generator_cycle}
-https://towardsdatascience.com/a-gentle-introduction-to-cycle-consistent-adversarial-networks-6731c8424a87
-\bibitem{resnet}
-K. He, X. Zhang, S. Ren, and J. Sun, "Deep residual learning for image
-recognition.", 2015
-\end{thebibliography}
+
+[5]K. He, X. Zhang, S. Ren, and J. Sun, "Deep residual learning for image recognition.", 2015
+
+[6]I. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D.Warde-Farley, S. Ozair, A. Courville, and Y. Bengio, “Generative adversarial nets,” in Advances in Neural Information Processing Systems, 2014
+
+[7]K. Simonyan, and A. Zisserman, “Very Deep Convolutional Networks for Large-Scale Image Recognition,” Computer Science, 2014.
